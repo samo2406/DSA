@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 3/BDD.c
+stdlib.h
+-
+string.h
+-
+math.h
+-
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 3/main.c
+stdio.h
+-
+math.h
+-
+time.h
+-
+BDD.C
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 3/BDD.c
+

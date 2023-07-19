@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_AVL.c
+stdlib.h
+-
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_Ch.c
+stdlib.h
+-
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_LPOA.c
+stdio.h
+-
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_RB.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_Test.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+zadanie2_AVL.c
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_AVL.c
+zadanie2_RB.c
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_RB.c
+zadanie2_Ch.c
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_Ch.c
+zadanie2_LPOA.c
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/zadanie2_LPOA.c
+

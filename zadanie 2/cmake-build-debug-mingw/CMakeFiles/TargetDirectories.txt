@@ -1,0 +1,3 @@
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/cmake-build-debug-mingw/CMakeFiles/zadanie_2.dir
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/samue/Desktop/Skola/4. Semester/DSA/zadanie 2/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
